@@ -1,0 +1,10 @@
+
+python query_recipes.py --query noodle --exclude-caution "Sulfites"
+
+
+python query_recipes.py --query noodle --notquery soba --exclude-caution "Sulfites"
+
+python query_recipes.py --query noodle --notquery soba --exclude-caution "Sulfites" --verbose
+
+python inference.py 
+

@@ -1,0 +1,14 @@
+# Python 3.10 only
+
+# databases
+opensearch-py>=2.4
+
+#utils
+requests>=2.31
+beautifulsoup4>=4.14.3
+
+# ai / ml
+numpy<2.0
+pydantic<1.11
+sentence-transformers>=2.7
+tqdm>=4.66
