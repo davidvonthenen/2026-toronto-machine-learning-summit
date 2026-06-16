@@ -1,4 +1,4 @@
-# 2026 Toronto Machine Learning Summit: Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter
+# 2026 TMLS: Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter
 
 Welcome to the landing page for the session `Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually Matter` at `Toronto Machine Learning Summit (TMLS) 2026`.
 
