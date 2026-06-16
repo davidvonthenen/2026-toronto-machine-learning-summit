@@ -1,0 +1,6 @@
+
+python query_recipes.py --query "I am looking for noodle recipes."
+
+python query_recipes.py --query "I am looking for noodles recipes without soba that doesn't contain Sulfites."
+
+

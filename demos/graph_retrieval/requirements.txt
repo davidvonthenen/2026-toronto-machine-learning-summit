@@ -1,0 +1,11 @@
+# Python 3.10 only
+
+# databases
+neo4j>=5.0
+
+#utils
+requests>=2.31
+beautifulsoup4>=4.14.3
+
+# ai / ml
+tqdm>=4.66
